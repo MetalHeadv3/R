@@ -1,0 +1,2 @@
+# R
+walidacja, podstawy R
